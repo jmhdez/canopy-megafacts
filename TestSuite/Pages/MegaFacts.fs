@@ -2,11 +2,10 @@
 
 open canopy
 open runner
-open System
-
-let factsUrl = "http://localhost:3000"
 
 // PageModel
+
+let factsUrl = "http://localhost:3000"
 
 // Enlaces a los diferentes héroes
 let heroArturo = "#heroes li:nth-of-type(1) a"
